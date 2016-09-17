@@ -1,0 +1,50 @@
+url: https://binwoods.github.io
+# baseurl: /agency-jekyll-theme/
+host: localhost
+
+# Site settings
+title: 
+email: miss.wbingbing@gmail.com
+description: "铅华是短,不堪挥霍."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: c1f5c4
+  secondary: 99ffcc
+  secondary-dark: 355c7d
+  title: 355c7d
+  links: 355c7d
+  links-hover: 355c7d
+
+# Team names, titles and social links
+people:
+  social:
+    - title: github
+      url: https://github.com/esanwang
+    - title: linkedin
+      url: http://www.linkedin.com/in/bingbing-wang-59a246b7?trk=nav_responsive_tab_profile_pic
+    - title: facebook
+      url: #
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# 注:这里写工作室的账号网址，个人的已在Team里填写.
+social:
+  - title: dribbble
+    url: 
+  - title: pinterest
+    url: 
+  - title: linkedin
+    url: http://www.linkedin.com/in/bingbing-wang-59a246b7?trk=nav_responsive_tab_profile_pic
+  - title: behance 
+    url: 
+  - title: github
+    url: https://github.com/esanwang
+
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

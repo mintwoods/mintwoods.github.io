@@ -1,0 +1,12 @@
+---
+title:  一组欧美风的UI界面设计
+subtitle:   
+layout: default
+modal-id: 10
+date: 2016-01-10
+img: UI2.jpg
+thumbnail: UI02.jpg
+alt: image-alt
+description:  我设计了充值和通关这两个界面，比较满意这组颜色，均使用了渐变色。
+
+---

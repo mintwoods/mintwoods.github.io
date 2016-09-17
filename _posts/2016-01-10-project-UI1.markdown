@@ -1,0 +1,14 @@
+---
+title:  几组UI界面设定
+subtitle:  
+layout: default
+modal-id: UI1
+date: 2016-01-10
+img: UI1.jpg
+thumbnail: UI01.jpg
+alt: image-alt
+description: 第一幅是游戏角色选定的UI界面设计，"hero"我用了图层混合样式突出立体效果，再使用线性减淡混合模式提高亮度；
+             第二三幅是场景选定及胜利界面设计；
+             最后两幅是半原创界面设计。
+
+---

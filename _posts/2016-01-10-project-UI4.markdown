@@ -1,0 +1,12 @@
+---
+title:  孤胆车神UI界面设计
+subtitle:  
+layout: default
+modal-id: UI4
+date: 2016-01-10
+img: UI4.jpg
+thumbnail: UI04.jpg
+alt: image-alt
+description: 这次我将场景设定为晚上，选用紫色冷色调，凸显出场景的神秘，用橙黄色作为暖色调突出选中的状态，冷暖形成强烈的视觉效果，便于用户互动使用；第三幅使用较亮丽的颜色作为按钮，产生明显的视觉碰撞。
+
+---

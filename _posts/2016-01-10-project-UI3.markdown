@@ -1,0 +1,12 @@
+---
+title:  一组游戏UI界面设计
+subtitle:  
+layout: default
+modal-id: UI3
+date: 2016-01-10
+img: UI3.jpg
+thumbnail: UI03.jpg
+alt: image-alt
+description: 我主要负责了主页，角色的UI及icon设计。
+
+---
