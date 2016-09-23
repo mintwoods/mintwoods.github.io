@@ -31,8 +31,8 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # 注:这里写工作室的账号网址，个人的已在Team里填写.
 social:
-  - title: dribbble
-    url: https://dribbble.com/EsanWang
+  - title: behance
+    url: https://www.behance.net/LemonWang
   - title: linkedin
     url: https://www.linkedin.com/in/esan-wang-59a246b7
   - title: github
